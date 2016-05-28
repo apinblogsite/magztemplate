@@ -1,2 +1,2 @@
-# Apin-Blogsite
-hello world
+# Apin Blogsite Magz Template
+CSS, JS BANK
